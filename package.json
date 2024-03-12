@@ -12,7 +12,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^12.15.0",
+    "@faker-js/faker": "^8.0.2",
+    "cypress": "^13.6.6",
+    "cypress-mailosaur": "^2.14.0",
     "eslint": "^8.43.0",
     "eslint-plugin-cypress": "^2.13.3"
   }
